@@ -20,6 +20,8 @@ const allowedOrigins = [
   "http://localhost:3000",
   "http://localhost:4000",
   "expense-tracker.onrender.com",
+  "https://expense-tracker-3h6c.onrender.com",
+  "https://expense-tracker-backend-jhe7.onrender.com"
 ];
 
 // Middleware
